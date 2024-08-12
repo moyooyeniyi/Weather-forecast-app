@@ -35,18 +35,43 @@ p{
 }
 
 .number{
- font-size: 40px;
+ font-size: 60px;
  position: relative;
-  bottom: 100px;
-  left: 250px;
+   bottom: 200px;
+  
+  left: 70%;
 }
 .degree{
   
  position: relative;
-  bottom: 120px;
-  left: 250px
+  top: 70%;
+  left: 70%;
+  bottom: 200px;
+  
+  left: 70%;
 } 
 
+.forecast{
+  display: flex;
+  gap: 30px;
+  
+}
+.each-forecast{
+  text-align: center;
+}
+
+.forecast-day{
+  color: #c7c7cd;
+}
+.forecast-icon{
+  font-size: 40px;
+}
+.forecast-temp{
+  color: #D05172;
+}
+.bold-num{
+  font-weight: bold;
+}
 
 footer{
   color: #c7c7cd;
