@@ -1,0 +1,54 @@
+body{
+  background-color: #F6F5FA;
+}
+
+.container{
+  margin: 0 auto;
+  background: #ffff;
+  border-radius: 8px;
+  padding: 50px;
+  width: 60%;
+}
+
+#form-input{
+  padding: 8px;
+  border-radius: 8px;
+  width: 60%;
+  background: #F6F5FA;
+  border: none;
+}
+
+#form-search{
+  padding: 8px;
+  border-radius: 8px;
+  color: #ffff;
+  background: #7C52EE;
+  border: 1px solid #7C52EE;
+}
+
+p{
+  color: #c7c7cd;
+}
+.humidity{
+  color: #D05172;
+  font-weight: bold;
+}
+
+.number{
+ font-size: 40px;
+ position: relative;
+  bottom: 100px;
+  left: 250px;
+}
+.degree{
+  
+ position: relative;
+  bottom: 120px;
+  left: 250px
+} 
+
+
+footer{
+  color: #c7c7cd;
+
+}
